@@ -1,0 +1,8 @@
+framework module "UEBechmarkApi" {
+	header "ref.h"
+    header "Ue.objc.h"
+    header "Universe.objc.h"
+    header "UEBechmarkApi.h"
+
+    export *
+}

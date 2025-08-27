@@ -1,0 +1,8 @@
+framework module "UEApi" {
+	header "ref.h"
+    header "Ue.objc.h"
+    header "Universe.objc.h"
+    header "UEApi.h"
+
+    export *
+}

@@ -1,0 +1,8 @@
+framework module "ObliviousSignatureApi" {
+	header "ref.h"
+    header "Osign.objc.h"
+    header "Universe.objc.h"
+    header "ObliviousSignatureApi.h"
+
+    export *
+}

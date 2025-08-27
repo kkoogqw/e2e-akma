@@ -1,0 +1,8 @@
+framework module "NetworksApi" {
+	header "ref.h"
+    header "Networks.objc.h"
+    header "Universe.objc.h"
+    header "NetworksApi.h"
+
+    export *
+}
